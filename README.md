@@ -13,7 +13,7 @@ Welcome to the **React Quiz App**, a fun and interactive way to test your knowle
 
 ## 🖥️ Demo
 
-Check out the live demo: [Quiz App Demo](https://react-quiz-123.netlify.app)
+Check out the live demo: [Quiz App Demo](https://quizapp-rouge-pi.vercel.app/)
 
 ## 📷 Screenshots
 
@@ -32,7 +32,7 @@ Check out the live demo: [Quiz App Demo](https://react-quiz-123.netlify.app)
 Follow these steps to run the project locally:
 
 1. **Clone the repository:**
-   git clone https://github.com/Ashwin-MB97/Quiz-App.git
+   git clone https://github.com/Sharadpatil03/Quizapp.git
 
 2. **Navigate to the project folder:**
    cd quiz-app
